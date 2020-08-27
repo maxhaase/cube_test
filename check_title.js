@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // Check the title of a page
 
 describe('Protractor Demo App', function() {
