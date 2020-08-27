@@ -1,0 +1,19 @@
+{
+  "name": "cube_test",
+  "version": "1.0.0",
+  "description": "Test for correct page title",
+  "main": "check_title.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxhaase/cube_test.git"
+  },
+  "author": "Max Haase",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxhaase/cube_test/issues"
+  },
+  "homepage": "https://github.com/maxhaase/cube_test#readme"
+}
